@@ -23,10 +23,10 @@ In this project, students were challenged to recreate a set of functions that al
 ## custom functions
 
 <details>
-<summary> ft_substr </summary>
+<summary> **ft_substr** </summary>
 
-char *ft_substr(char const *s, unsigned int start,
-size_t len);
+**char *ft_substr(char const *s, unsigned int start,
+size_t len)**
 
 Allocates with malloc and returns a substring
 from the string ’s’.
