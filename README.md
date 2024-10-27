@@ -56,7 +56,6 @@ Allocates malloc and returns a copy of
 from the beginning and the end of the string.
 
 </details>
-<br>
 
 <details>
 <summary> ft_split </summary>
@@ -69,7 +68,6 @@ character ’c’ as a delimiter. The array must end
 with a NULL pointer.
 
 </details>
-<br>
 
 <details>
 <summary> ft_itoa </summary>
@@ -81,7 +79,6 @@ representing the integer received as an argument.
 Negative numbers must be handled.
 
 </details>
-<br>
 
 <details>
 <summary> ft_strmapi </summary>
@@ -95,7 +92,6 @@ to create a new string (with malloc(3)) resulting
 from successive applications of ’f’.
 
 </details>
-<br>
 
 <details>
 <summary> ft_striteri </summary>
@@ -108,7 +104,6 @@ as first argument. Each character is passed by
 address to ’f’ to be modified if necessary.
 
 </details>
-<br>
 
 <details>
 <summary> ft_putchar_fd </summary>
@@ -119,7 +114,6 @@ Outputs the character ’c’ to the given file
 descriptor.
 
 </details>
-<br>
 
 <details>
 <summary> ft_putstr_fd </summary>
@@ -130,7 +124,6 @@ Outputs the string ’s’ to the given file
 descriptor.
 
 </details>
-<br>
 
 <details>
 <summary> ft_putendl_fd </summary>
@@ -141,7 +134,6 @@ Outputs the string ’s’ to the given file descriptor
 followed by a newline.
 
 </details>
-<br>
 
 <details>
 <summary> ft_putnbr_fd </summary>
@@ -152,7 +144,6 @@ Outputs the integer ’n’ to the given file
 descriptor.
 
 </details>
-<br>
 
 ## custom functions - list manipulation
 
@@ -167,7 +158,6 @@ the value of the parameter ’content’. The variable
 ’next’ is initialized to NULL.
 
 </details>
-<br>
 
 <details>
 <summary> ft_lstadd_front </summary>
@@ -177,7 +167,6 @@ void ft_lstadd_front(t_list **lst, t_list *new);
 Adds the node ’new’ at the beginning of the list.
 
 </details>
-<br>
 
 <details>
 <summary> ft_lstsize </summary>
@@ -187,7 +176,6 @@ int ft_lstsize(t_list *lst);
 Counts the number of nodes in a list.
 
 </details>
-<br>
 
 <details>
 <summary> ft_lstlast </summary>
@@ -197,7 +185,6 @@ t_list *ft_lstlast(t_list *lst);
 Returns the last node of the list.
 
 </details>
-<br>
 
 <details>
 <summary> ft_lstadd_back </summary>
@@ -207,7 +194,6 @@ void ft_lstadd_back(t_list **lst, t_list *new);
 Adds the node ’new’ at the end of the list.
 
 </details>
-<br>
 
 <details>
 <summary> ft_lstdelone </summary>
@@ -220,7 +206,6 @@ as a parameter and free the node. The memory of
 ’next’ must not be freed.
 
 </details>
-<br>
 
 <details>
 <summary> ft_lstclear </summary>
@@ -234,7 +219,6 @@ Finally, the pointer to the list must be set to
 NULL.
 
 </details>
-<br>
 
 <details>
 <summary> ft_lstiter </summary>
@@ -245,7 +229,6 @@ Iterates the list ’lst’ and applies the function
 ’f’ on the content of each node.
 
 </details>
-<br>
 
 <details>
 <summary> ft_lstmap </summary>
@@ -259,7 +242,6 @@ the function ’f’. The ’del’ function is used to
 delete the content of a node if needed.
 
 </details>
-<br>
 
 --------
 LinkedIn: https://www.linkedin.com/in/pedrosmpm
