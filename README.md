@@ -34,7 +34,6 @@ The substring begins at index ’start’ and is of
 maximum size ’len’.
 
 </details>
-<br>
 
 <details>
 <summary> ft_strjoin </summary>
@@ -46,7 +45,6 @@ string, which is the result of the concatenation
 of ’s1’ and ’s2’.
 
 </details>
-<br>
 
 <details>
 <summary> ft_strtrim </summary>
@@ -156,7 +154,7 @@ descriptor.
 </details>
 <br>
 
-## custom functions - list manipulation:
+## custom functions - list manipulation
 
 <details>
 <summary> ft_lstnew </summary>
