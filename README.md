@@ -156,7 +156,7 @@ descriptor.
 </details>
 <br>
 
-`Custom functions - List manipulation:`
+## custom functions - list manipulation:
 
 <details>
 <summary> ft_lstnew </summary>
