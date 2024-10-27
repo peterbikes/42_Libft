@@ -20,7 +20,7 @@ In this project, students were challenged to recreate a set of functions that al
 | **ft_isprint** | **ft_memmove** | **ft_strchr**  | **ft_strnstr** |               |
 
 
-`Custom functions:`
+## custom functions
 
 <details>
 <summary> ft_substr </summary>
