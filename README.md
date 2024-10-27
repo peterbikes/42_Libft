@@ -23,7 +23,7 @@ In this project, students were challenged to recreate a set of functions that al
 ## custom functions
 
 <details>
-<summary> ft_substr </summary>
+<summary> char *ft_substr(char const *s, unsigned int start, size_t len) </summary>
 
 char *ft_substr(char const *s, unsigned int start,
 size_t len);
